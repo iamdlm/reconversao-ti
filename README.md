@@ -67,3 +67,4 @@ O pseudocódigo é uma linguagem de programação que se assemelha ao português
 ## Referências
 - [The Odin Project](https://www.theodinproject.com/)
 - [Curso em Vídeo](https://www.cursoemvideo.com/)
+  - [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
