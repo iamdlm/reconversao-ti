@@ -63,3 +63,7 @@ O fluxograma é uma representação gráfica de um algoritmo usando símbolos pa
 
 #### 1.7. Pseudocódigo
 O pseudocódigo é uma linguagem de programação que se assemelha ao português e é utilizada para representar algoritmos de maneira mais legível para seres humanos.
+
+## Referências
+- [The Odin Project](https://www.theodinproject.com/)
+- [Curso em Vídeo](https://www.cursoemvideo.com/)
