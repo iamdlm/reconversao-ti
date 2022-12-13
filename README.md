@@ -1,6 +1,6 @@
 # Reconversão TI
 
-## Iniciação à Programação
+## Capítulo 1 - Iniciação à Programação
 Componentes de raciocínio e abstração necessárias para conceber e desenhar, através da forma de pseudocódigo e/ou de fluxograma, as soluções para os problemas.
  
 1. Conceitos de programação  
@@ -35,3 +35,13 @@ Componentes de raciocínio e abstração necessárias para conceber e desenhar, 
 6.3. Listas;  
 6.4. Arvores;  
 6.5. Ficheiros.
+
+### 1. Conceitos de programação  
+#### 1.1 O que é um programa informático
+Um programa informático é um conjunto de instruções escritas por um programador que são seguidas por um computador para realizar uma tarefa específica. Podemos comparar um programa informático a uma receita de bolo, por exemplo. Assim como a receita indica os ingredientes e as etapas necessárias para cozinhar o bolo, o programa informático indica as instruções que o computador deve seguir para realizar uma tarefa.
+
+Um exemplo simples de um programa informático é um aplicativo que converte temperaturas de Celsius para Fahrenheit e vice-versa. O programa inclui instruções que dizem ao computador como ler a temperatura em uma das escalas, como realizar a conversão matemática para a outra escala e como exibir o resultado para o utilizador.
+
+Outro exemplo é um programa de edição de imagens, como o Adobe Photoshop. Este programa inclui instruções que permitem ao utilizador editar imagens, como redimensionar, cortar, adicionar efeitos e salvar o resultado final.
+
+De maneira geral, os programas informáticos são escritos em linguagens de programação específicas, como Java ou Python, e podem ser executados em diversos dispositivos, como computadores, smartphones e tablets.
