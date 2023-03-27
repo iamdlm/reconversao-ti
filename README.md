@@ -1,5 +1,19 @@
 # Reconversão TI
 
+## Programas obrigatórios
+- Git
+- Postman
+- SQL Server
+- SQL Server Management Studio (SSMS)
+- Visual Studio 2022
+- Visual Studio Code
+
+## Programas recomendados
+- AstroGrep
+- Ditto
+- GitHub Desktop
+- WinMerge
+
 ## Capítulo 1 - Iniciação à Programação
 Componentes de raciocínio e abstração necessárias para conceber e desenhar, através da forma de pseudocódigo e/ou de fluxograma, as soluções para os problemas.
  
@@ -63,8 +77,3 @@ O fluxograma é uma representação gráfica de um algoritmo usando símbolos pa
 
 #### 1.7. Pseudocódigo
 O pseudocódigo é uma linguagem de programação que se assemelha ao português e é utilizada para representar algoritmos de maneira mais legível para seres humanos.
-
-## Referências
-- [The Odin Project](https://www.theodinproject.com/)
-- [Curso em Vídeo](https://www.cursoemvideo.com/)
-  - [Curso de Lógica de Programação (YouTube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
